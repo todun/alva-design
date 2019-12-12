@@ -2,3 +2,5 @@ node_modules
 lib
 components.bundle.js*
 .tmp
+yarn.lock
+package-lock.json
